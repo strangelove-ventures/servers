@@ -1,0 +1,5 @@
+dockerfiles:
+  # - src/filesystem/Dockerfile
+  - src/git/Dockerfile
+  # - src/fetch/Dockerfile
+registry: https://ghcr.io/strangelove-ventures
